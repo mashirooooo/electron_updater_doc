@@ -4,5 +4,5 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: 'VitePress',
   description: 'Just playing around.',
-  base: './',
+  base: '/electron_updater_doc/',
 })
